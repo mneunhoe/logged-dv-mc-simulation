@@ -1,3 +1,6 @@
+.DS_Store
+renv
+renv.lock
 .Rproj.user
 .Rhistory
 .RData
